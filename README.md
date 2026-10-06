@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  tg - @mixadod
+  tg - @psxgld
 </div>
 
 <div align="center">
